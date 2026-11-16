@@ -1,0 +1,13 @@
+docs/
+results/
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+data/raw/healthcare-dataset-stroke-data.csv
